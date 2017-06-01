@@ -6,13 +6,13 @@ ex 1-1
 2. SyntaxError: EOL while scanning string literal
 3. Putting a plus sign before a number causes nothing. 2++2 is still     equal to 4.
 4. Leading zeros would give SyntaxError: invalid token.
-    Unless you are intended to display the numbers in hexedecimal     format.
-5. Two values with no operator will produce SynatxError: invalide     syntax.
+    Unless you are intended to display the numbers in hexedecimal format.
+5. Two values with no operator will produce SynatxError: invalid syntax.
 
 ex 1-2
 
 1. 42 mins 42 sec
-    There are 42 * 60 + 42 = 2562 seconds.
+   There are 42 * 60 + 42 = 2562 seconds.
 2. 1 miles = 1.61km
-    10 km = 10 / 1.61 = 6.211 miles
-3. 10 km in 42 mins 42 sec, so the average speed is 6.211 / (42 + 42 /     60) = 0.145 miles per min. Average speed in miles per hour is 6.211     / (42 / 60 + 42 / 3600) = 8.727
+   10 km = 10 / 1.61 = 6.211 miles
+3. 10 km in 42 mins 42 sec, so the average speed is 6.211 / (42 + 42 /     60) = 0.145 miles per min. Average speed in miles per hour is      6.211     / (42 / 60 + 42 / 3600) = 8.727
